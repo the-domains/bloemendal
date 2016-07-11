@@ -1,14 +1,14 @@
-layout_spectrum: 0.5970933500211686
-typography_spectrum: 0.6003419307526201
+layout_spectrum: 0.48804083839058876
+typography_spectrum: 0.5053380928002298
 color:
-  brandStrength: 0.32686493964865804
-  lightness: 0.42429049452766776
-  saturation: 0.9644974744878709
-  rhythmicContrast: 0.9218708269763738
+  brandStrength: 0.14974096789956093
+  lightness: 0.8520202618092299
+  saturation: 0.6914325926918536
+  rhythmicContrast: 0.5642036127392203
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 name: bloemendal
